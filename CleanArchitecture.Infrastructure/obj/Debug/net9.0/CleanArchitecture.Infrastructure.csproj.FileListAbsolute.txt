@@ -1,0 +1,17 @@
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Infrastructure.deps.json
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Infrastructure.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Infrastructure.pdb
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Domain.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\bin\Debug\net9.0\CleanArchitecture.Domain.pdb
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArc.38F44B56.Up2Date
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.pdb
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\ref\CleanArchitecture.Infrastructure.dll

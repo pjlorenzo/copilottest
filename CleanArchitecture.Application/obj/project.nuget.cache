@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkGUVzTIodo=",
+  "success": true,
+  "projectFilePath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

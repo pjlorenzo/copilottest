@@ -1,0 +1,11 @@
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\bin\Debug\net9.0\CleanArchitecture.Domain.deps.json
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\bin\Debug\net9.0\CleanArchitecture.Domain.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\bin\Debug\net9.0\CleanArchitecture.Domain.pdb
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\refint\CleanArchitecture.Domain.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.pdb
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\ref\CleanArchitecture.Domain.dll
