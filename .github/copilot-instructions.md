@@ -6,7 +6,7 @@ It is on GitHub at https://github.com/pjlorenzo/clean-architecture-api
 
 ## Project Context
 
-This is a web api application that manages monkey species data and integrates with GitHub through MCP servers.
+This is a web api application that products and category data and integrates with GitHub through MCP servers.
 
 ## C# Coding Standards
 
@@ -26,9 +26,9 @@ This is a web api application that manages monkey species data and integrates wi
 ## Naming Conventions
 
 - Classes: `MonkeyHelper`, `Monkey`, `Program`
-- Methods: `GetMonkeys()`, `GetRandomMonkey()`, `GetMonkeyByName()`
+- Methods: `DeleteCategoryAsync()`, `CreateProductCommandHandler()`, `ApplicationDbContext()`
 - Properties: `Name`, `Location`, `Population`
-- Variables: `selectedMonkey`, `monkeyCount`, `userInput`
+- Variables: `result`, `monkeyCount`, `userInput`
 - Constants: `MAX_MONKEYS`, `DEFAULT_POPULATION`
 
 ## Architecture
