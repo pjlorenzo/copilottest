@@ -9,8 +9,18 @@ using System.Threading.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Add services to the container.
 builder.Services.AddControllers();
+
+// Add in-memory caching
+builder.Services.AddMemoryCache();
+
+// Add response compression
+builder.Services.AddResponseCompression(options =>
+{
+    options.EnableForHttps = true;
+});
 
 // Configure rate limiting
 builder.Services.AddRateLimiter(options =>
@@ -59,7 +69,9 @@ builder.Services.AddScoped<IProductService, ProductService>();
 // Add MediatR
 builder.Services.AddMediatR(typeof(ProductService).Assembly);
 
+
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -68,8 +80,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseResponseCompression();
 app.UseHttpsRedirection();
-
 app.UseRateLimiter();
 app.UseAuthorization();
 
