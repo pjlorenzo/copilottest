@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+      "projectUniqueName": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
       "projectName": "CleanArchitecture.Domain",
-      "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+      "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
       "packagesPath": "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\",
-      "outputPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\obj\\",
+      "outputPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

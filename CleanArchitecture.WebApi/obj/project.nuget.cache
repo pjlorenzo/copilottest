@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ySROWemIMfs=",
+  "dgSpecHash": "BDHTlL/X55M=",
   "success": true,
   "projectFilePath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
