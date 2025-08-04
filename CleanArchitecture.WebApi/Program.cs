@@ -1,3 +1,5 @@
+using FluentValidation;
+using CleanArchitecture.Application.Categories.Validators;
 using CleanArchitecture.Application.Interfaces;
 using CleanArchitecture.Application.Services;
 using CleanArchitecture.Domain.Interfaces;
@@ -66,8 +68,16 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductService, ProductService>();
 
+
 // Add MediatR
 builder.Services.AddMediatR(typeof(ProductService).Assembly);
+
+// Add FluentValidation and register validators from Application assemblies
+builder.Services.AddValidatorsFromAssemblyContaining<CleanArchitecture.Application.Categories.Validators.CreateCategoryCommandValidator>();
+builder.Services.AddValidatorsFromAssemblyContaining<CleanArchitecture.Application.Products.Validators.CreateProductCommandValidator>();
+
+// Register ValidationBehavior in MediatR pipeline
+builder.Services.AddTransient(typeof(IPipelineBehavior<,>), typeof(CleanArchitecture.WebApi.Behaviors.ValidationBehavior<,>));
 
 
 var app = builder.Build();
