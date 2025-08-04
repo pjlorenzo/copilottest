@@ -13,3 +13,4 @@ C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Application\obj\Debug\n
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Application\obj\Debug\net9.0\refint\CleanArchitecture.Application.dll
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.pdb
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Application\obj\Debug\net9.0\ref\CleanArchitecture.Application.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Application\obj\Debug\net9.0\CleanArchitecture.Application.sourcelink.json

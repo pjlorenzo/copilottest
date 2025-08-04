@@ -15,3 +15,4 @@ C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debu
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.pdb
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Infrastructure\obj\Debug\net9.0\CleanArchitecture.Infrastructure.sourcelink.json

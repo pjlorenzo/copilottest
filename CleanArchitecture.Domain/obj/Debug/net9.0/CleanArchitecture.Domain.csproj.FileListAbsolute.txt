@@ -9,3 +9,4 @@ C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\refint\CleanArchitecture.Domain.dll
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.pdb
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\ref\CleanArchitecture.Domain.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.Domain\obj\Debug\net9.0\CleanArchitecture.Domain.sourcelink.json

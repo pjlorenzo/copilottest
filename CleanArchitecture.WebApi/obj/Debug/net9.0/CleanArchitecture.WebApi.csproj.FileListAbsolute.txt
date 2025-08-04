@@ -172,3 +172,4 @@ C:\Pablo\Personal\projects\copilottest\CleanArchitecture.WebApi\obj\Debug\net9.0
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.WebApi\bin\Debug\net9.0\MediatR.dll
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
 C:\Pablo\Personal\projects\copilottest\CleanArchitecture.WebApi\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Pablo\Personal\projects\copilottest\CleanArchitecture.WebApi\obj\Debug\net9.0\CleanArchitecture.WebApi.sourcelink.json
