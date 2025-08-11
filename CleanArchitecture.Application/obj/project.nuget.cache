@@ -1,13 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "XrxIKj00RIA=",
+  "dgSpecHash": "wYam7LhziNE=",
   "success": true,
   "projectFilePath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
