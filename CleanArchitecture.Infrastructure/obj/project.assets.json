@@ -4757,8 +4757,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+            "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
             }
           }
         }

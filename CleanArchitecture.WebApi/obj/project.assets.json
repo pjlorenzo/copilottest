@@ -5397,11 +5397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+      "projectUniqueName": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
       "projectName": "CleanArchitecture.WebApi",
-      "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+      "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
       "packagesPath": "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\",
-      "outputPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\obj\\",
+      "outputPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5422,8 +5422,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-              "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+            "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+              "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
             },
             "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
               "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
@@ -5498,13 +5498,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }

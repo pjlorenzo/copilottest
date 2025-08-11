@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj": {}
+    "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\",
-        "outputPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+    "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectUniqueName": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "projectName": "CleanArchitecture.Domain",
-        "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
         "packagesPath": "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\",
-        "outputPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\obj\\",
+        "outputPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,8 +180,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
-                "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj": {
+    "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+        "projectUniqueName": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
         "projectName": "CleanArchitecture.WebApi",
-        "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
+        "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\CleanArchitecture.WebApi.csproj",
         "packagesPath": "C:\\Users\\Pablo.Lorenzo.BRSM0012\\.nuget\\packages\\",
-        "outputPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\obj\\",
+        "outputPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -261,8 +261,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
-                "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
+              "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+                "projectPath": "c:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj"
               },
               "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
                 "projectPath": "C:\\Pablo\\Personal\\projects\\copilottest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj"
